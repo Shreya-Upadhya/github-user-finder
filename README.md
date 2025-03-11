@@ -8,10 +8,18 @@ A simple web application built with React.js that allows users to search for Git
 ✅ Search for any GitHub user by username
 
 ✅ Display profile information including:
+
 #1. Avatar
+
 #2. Join date
+
 #3. Repositories count
-#4. Followers and following✅ View top 5 repositories with descriptions and star counts✅ Responsive and user-friendly UI design
+
+#4. Followers and following
+
+✅ View top 5 repositories with descriptions and star counts
+
+✅ Responsive and user-friendly UI design
 
 **Technologies Used**
 
